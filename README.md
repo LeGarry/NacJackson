@@ -1,4 +1,4 @@
-[中文](./readme(zh).md)
+[中文](./https://github.com/NacJackson/NacJackson/blob/main/readme(zh).md)
 
 ---
 

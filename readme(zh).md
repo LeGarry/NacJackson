@@ -1,4 +1,4 @@
-[English](./README.md)
+[English](https://github.com/NacJackson/NacJackson/blob/main/README.md)
 
 ---
 
